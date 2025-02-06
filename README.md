@@ -1,7 +1,9 @@
 # FullY AutO - Auto Farm [FA-AF] ❤️
 
 <img width="64" src="Pics/Logo.png" align="left" style="margin-right:15px"/>
+
 **FullY AutO - Auto Farm** is a free open-source Murder Mystery Two script that aims to provide ease when autofarming currencies like:
+
 <div style="display: flex; flex-direction: column; gap: 2px;">
 
   <div style="display: flex; align-items: center; gap: 5px;">
