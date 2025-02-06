@@ -2,7 +2,6 @@
 
 <img width="64" src="Pics/Logo.png" align="left" style="margin-right:15px"/>
 
-
 <div style="display: flex; flex-direction: column; gap: 2px;">
 
 <p> <strong>FullY AutO - Auto Farm</strong> is a free open-source Murder Mystery Two script that aims to provide ease when autofarming currencies like: </p>
