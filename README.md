@@ -12,10 +12,9 @@
 
 2. **Code Stability:**  
    This branch will remain up to date, but the code is very **unstable** and most likely will not work in without specific usecase knowledge. All code here will be made for the purpose of using <img width="18" height="16" src="Pics/favicon.png">[*Swift*](https://getswift.xyz/) as your executor but, this branch will contain general code that can be used on all executors except for; <br>
-  <ins>
-   - **UNC-SPOOFED EXECUTORS!**  
-   - **Executors wit less than 50% sUNC** [basically executors without basic functions]
-   </ins>.
+  
+   - **UNC-SPOOFED EXECUTORS!**
+   - **Executors wit less than 50% sUNC** [basically executors without basic functions].
 
 3. **Other Concerns?**  
    📧 Email me: **Zynicc@proton.me**  
