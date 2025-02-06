@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 2px;">
 
-<p> <strong>FullY AutO - Auto Farm</strong> is a free open-source Murder Mystery Two script that aims to provide ease when autofarming currencies like: </p>
+  <p> <strong>FullY AutO - Auto Farm</strong> is a free open-source Murder Mystery Two script that aims to provide ease when autofarming    currencies like: </p>
 
   <div style="display: flex; align-items: center; gap: 5px;">
     ✅ Coins <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/0/04/MM2CoinIcon.png/revision/latest?cb=20200706184806">
