@@ -2,9 +2,10 @@
 
 <img width="64" src="Pics/Logo.png" align="left" style="margin-right:15px"/>
 
-**FullY AutO - Auto Farm** is a free open-source Murder Mystery Two script that aims to provide ease when autofarming currencies like:
 
 <div style="display: flex; flex-direction: column; gap: 2px;">
+
+<p> <strong>FullY AutO - Auto Farm</strong> is a free open-source Murder Mystery Two script that aims to provide ease when autofarming currencies like: </p>
 
   <div style="display: flex; align-items: center; gap: 5px;">
     ✅ Coins <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/0/04/MM2CoinIcon.png/revision/latest?cb=20200706184806">
@@ -17,6 +18,7 @@
   <div style="display: flex; align-items: center; gap: 5px;">
     ✅ Snow Tokens <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/5/52/Snow_Token.png/revision/latest/scale-to-width-down/350?cb=20230716144735">
   </div>
+  
 
 </div>
 <br><br>
