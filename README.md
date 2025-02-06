@@ -1,32 +1,21 @@
-# FullY AutO - Auto Farm [FA-AF] ❤️
+# [FA-AF] TEST BRANCH ⚙️🛠️ 😼
 
-<img width="64" src="Pics/Logo.png" align="left" style="margin-right:15px"/>
+<img width="64" src="Pics/Logo.png" align="left" style="margin-right:5px"/>
 
-<div style="display: flex; flex-direction: column; gap: 2px;">
+**Welcome to the FullY AutO - Auto Farm test branch!** This is where all of my code from my local pc will be placed. It's essentially a backup because I like to format my SSD to get a feel of different operating systems. This branch is always unstable and will have a bunch of unnecessary dependencies. Anyways if you want to see a early version of any technology or the autofarm itself, it will be under here.
 
-  <p> <strong>FullY AutO - Auto Farm</strong> is a free open-source Murder Mystery Two script that aims to provide ease when autofarming    currencies like: </p>
-
-  <div style="display: flex; align-items: center; gap: 5px;">
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✅ Coins <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/0/04/MM2CoinIcon.png/revision/latest?cb=20200706184806">
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 5px;">
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✅ Beach Ball <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/1/1b/Beach_Ball.png/revision/latest/scale-to-width-down/350?cb=20230705094929">
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 5px;">
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✅ Snow Tokens <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/5/52/Snow_Token.png/revision/latest/scale-to-width-down/350?cb=20230716144735">
-  </div>
-
-</div>
 <br><br>
 
 # Disclaimer ⚠️
 1. **Forking, Using, or Copying:**  
-   This is open-source, so you are free to use either the [technologies]() or the full [autofarm script](). However, you **MUST** give credit to me as a contributor. Example: *"Credits to Zynic" [[link to repository]]()*.
+   This is open-source, so you are free to use either the [technologies]() or the full [autofarm script](). However, you **MUST** give credit to me as a contributor and <ins> **you cannot use anything in this branch that is not on the main branch for comerial use**</ins>. Example: *"Credits to Zynic" [[link to repository]]()*.
 
 2. **Code Stability:**  
-   This repository will remain up to date, and I will be releasing new versions of the [autofarm script]() so you can integrate it into your ScriptHubs. However, unlike [MM2-AutoFarm](https://github.com/Zyn-ic/MM2-AutoFarm), **I WILL NOT** be making adjustments for any executors other than <img width="18" height="16" src="Pics/favicon.png">[*Swift*](https://getswift.xyz/).
+   This branch will remain up to date, but the code is very **unstable** and most likely will not work in without specific usecase knowledge. All code here will be made for the purpose of using <img width="18" height="16" src="Pics/favicon.png">[*Swift*](https://getswift.xyz/) as your executor but, this branch will contain general code that can be used on all executors except for; <br>
+  <ins>
+   - **UNC-SPOOFED EXECUTORS!**  
+   - **Executors wit less than 50% sUNC** [basically executors without basic functions]
+   </ins>.
 
 3. **Other Concerns?**  
    📧 Email me: **Zynicc@proton.me**  
