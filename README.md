@@ -11,11 +11,11 @@
   </div>
 
   <div style="display: flex; align-items: center; gap: 5px;">
-    ✅ Beach Ball <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/1/1b/Beach_Ball.png/revision/latest/scale-to-width-down/350?cb=20230705094929">
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✅ Beach Ball <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/1/1b/Beach_Ball.png/revision/latest/scale-to-width-down/350?cb=20230705094929">
   </div>
 
   <div style="display: flex; align-items: center; gap: 5px;">
-    ✅ Snow Tokens <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/5/52/Snow_Token.png/revision/latest/scale-to-width-down/350?cb=20230716144735">
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✅ Snow Tokens <img width="25" height="25" src="https://static.wikia.nocookie.net/murder-mystery-2/images/5/52/Snow_Token.png/revision/latest/scale-to-width-down/350?cb=20230716144735">
   </div>
 
 </div>
